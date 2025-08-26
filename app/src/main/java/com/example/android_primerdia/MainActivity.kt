@@ -16,7 +16,7 @@ import com.example.android_primerdia.ui.theme.AndroidPrimerDiaTheme
 
 //JONATHAN ISAAC GARCIA MIJARES
 //22130806
-
+//awd
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
