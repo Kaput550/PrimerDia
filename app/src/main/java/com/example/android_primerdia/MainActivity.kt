@@ -15,6 +15,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.example.android_primerdia.ui.theme.AndroidPrimerDiaTheme
 
 //JONATHAN ISAAC GARCIA MIJARES
+//22130806
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
